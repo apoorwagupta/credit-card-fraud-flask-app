@@ -1,9 +1,5 @@
 # Credit Card Fraud
 
-Group 6 Members: Sally Mei, Debolina Bhaumik, Cole Barnes, Kanu Madhok
-
-## Topic Overview
-
 Digital payments and cyber criminal activities are evolving and fraud is very common for both Card-Present and Card-not present type of payments. A dataset containing information on credit card fraud was analyzed using matplotlib and machine learning classification models to determine trends in fraudulent purchases.
 
 ## Dataset
