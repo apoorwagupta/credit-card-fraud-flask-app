@@ -82,7 +82,7 @@ HTML and CSS was used for webpage development. A brief description on credit car
 
 ![webpage](Images/webpage.PNG)
 
-## Flask & Heroku
+## Flask App
 
 The flask application takes the Random Forest Classifier machine learning model using the undersampled balanced dataset to determine if a purchase was fraudulent. The flask app connects the model to the HTML page allowing for user inputs on the webpage form and feeding those into the machine learning model. The flask app then returns the result back to display on the webpage.
 
