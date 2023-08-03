@@ -4,7 +4,7 @@ Digital payments and cyber criminal activities are evolving and fraud is very co
 
 ## Dataset
 
-[Credit_Card_Fraud_Data](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+The dataset was obtained from kaggle : [Credit_Card_Fraud_Data](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 
 ## Exploratory Data Analysis
 
