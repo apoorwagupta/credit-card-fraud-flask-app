@@ -36,7 +36,6 @@ Overall, used pin number transactions are less likely to be a fraud, while used 
 
 ## Building Machine Learning Model
 
-Since the data was unbalanced, SMOTE was used and oversampling and undersampling was done to balance the data.
 
 Unbalanced Data:
 
@@ -46,7 +45,7 @@ Balanced Data:
 
 ![balanced](Images/balanced.PNG)
 
-Then, Logistics Regression model, Random Forest Classifier model, and Decision Trees were created. As a result, the accurracy and precision for both models and Decision Trees for the balanced data by oversampling and undersampling were high since they were either at 1 or very close to 1 (see below images of results).
+Then, Logistics Regression model, Random Forest Classifier model. As a result, the accurracy and precision for both models were high since they were either at 1 or very close to 1 (see below images of results).
 
 ### Oversampling Accuracy and Precision
 
@@ -62,7 +61,7 @@ Decision Trees:
 
 ![ODTR](Images/ODTR.PNG)
 
-### Undersampling Accuracy and Precision
+### Accuracy and Precision
 
 Logistic Regression:
 
